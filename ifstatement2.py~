@@ -1,0 +1,5 @@
+# Another example
+
+x = int(input("Please enter Integer: "))
+if x < 0:
+    x = 0

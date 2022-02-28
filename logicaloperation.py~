@@ -1,0 +1,5 @@
+# To do a logical AND, OR we use, *or* keyword,
+
+1 and 4
+
+print (1 and 4)

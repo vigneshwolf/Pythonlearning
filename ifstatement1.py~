@@ -1,0 +1,6 @@
+# if the value of expression is true (anything other than zero), do the what is written  below under the int(indentation). One simple example is to take some numbers as input and check if the number is less than 100 or not
+
+number = int(input("Enter the number: "))
+if number < 100
+
+print (number)
