@@ -10,3 +10,5 @@ while i < 11:
         print()
         i += 1
         print("-" * 50)
+        print("*" * 10)
+        print("#" * 20)

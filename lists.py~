@@ -1,0 +1,2 @@
+a = [ 1, 342, 223, 'India', 'chennai' ]
+print(a)
