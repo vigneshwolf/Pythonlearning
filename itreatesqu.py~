@@ -1,0 +1,7 @@
+# you may also need to iterate through two sequence same time, for that zip() function.
+
+a = ['name', 'vignesh']
+b = ['city', 'chennai']
+
+for x, y in zip (a, b):
+    print("%s uses %s" % (x, y))

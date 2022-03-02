@@ -1,0 +1,5 @@
+# And some example of set operations.
+
+a = set('abcdefghijklmnop'
+b = set('qrstuvwxyz')
+        print (a)

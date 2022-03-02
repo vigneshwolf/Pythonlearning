@@ -1,0 +1,4 @@
+# To create a tuple which contains only value, type a trailling comma.
+
+a = (123)
+print(a)

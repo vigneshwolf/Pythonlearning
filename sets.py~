@@ -1,0 +1,4 @@
+# Sets are another type of data structure with no duplicate items. we can apply mathematical ser operations on sets.
+
+a = set('abcthjduehlskls')
+print (a)

@@ -1,0 +1,4 @@
+# tuples are data seperated by commas.
+
+a = ('This' , 'Is , 'Tuples' , 'Datastructure')
+print (a)
