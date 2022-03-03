@@ -1,0 +1,21 @@
+
+def add(x, y):
+    return x + y
+
+def substract(x, y):
+    return x - y
+
+def multiply(x, y):
+    return x * y
+
+def devide(x, y):
+    return x / y
+
+print("Select operation.")
+print("1.Add")
+print("2.substract")
+print("3.multiply")
+print("4.devide")
+
+while True:
+    choice = ("Enter the number: ")
