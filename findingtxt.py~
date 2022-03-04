@@ -1,0 +1,5 @@
+# String have some methods which will help you in finding text/substring in a string. Examples are given below:
+
+s = "facualty for a reason"
+s = s.find("for")
+print(s)

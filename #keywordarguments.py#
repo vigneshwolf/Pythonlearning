@@ -1,0 +1,12 @@
+def func(a, b=5, c=10):
+    print('a is ', a, 'and b is', b, 'and c is', c)
+
+func(12, 24)
+
+func(12, c = 24)
+
+func(b=12, c = 24, a = -1)
+
+#in the above example you can see we are calling the function with variable names, like func(12, c = 24), by that way we are assigning 24 to c and b is getting its default value. Also remember that you can not have without keyword based arguments after a keyword based arguments.
+    
+    

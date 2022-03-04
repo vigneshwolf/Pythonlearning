@@ -1,0 +1,4 @@
+# you can particularlly strip from the left hand or right hand side also using lstrip() or rstrip()
+
+s = "www.google.in"
+s = lstrip("scwd.")
